@@ -517,7 +517,7 @@ span{
    .header{
       padding: 2rem 3%;
    }
-   section{
+   section {
       padding: 10rem 3% 2rem;
    }
    .home .profession-container .profession-box{
@@ -583,7 +583,7 @@ span{
       padding: 1rem 3%;
       background-color: var(--bg-color);
       border-top: .1rem solid rgba(0,0,0, .2);
-      box-shadow: 0 .5rem rgba(0,0,0, .1);
+      box-shadow: 0 .5rem 1rem rgba(0,0,0, .1);
    }
    .navbar a{
       display: block;
