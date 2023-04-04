@@ -606,4 +606,14 @@ span{
    .navbar a::before{
       display: none;
    }
+
+   .home{
+      padding: 0 3% 23rem;
+      justify-content: center;
+      text-align: center;
+   }
+
+   .home-content h3{
+      font-size: 2.6rem;
+   }
 }
