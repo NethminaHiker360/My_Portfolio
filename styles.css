@@ -722,4 +722,21 @@ span{
    .home .profession-box .profession:nth-child(4){
       transform: rotate(180deg) translate(-210px, -335px);
    }
+   .contact form .input-box input{
+      width: 100%;
+   }
+}
+
+@media (max-width: 365px){
+   .about-img img{
+      width: 90vw;
+   }
+
+   .footer{
+      flex-direction: column-reverse;
+   }
+   .footer p{
+      text-align: center;
+      margin-top: 2rem;
+   }
 }
