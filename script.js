@@ -9,11 +9,6 @@ menuIcon.onclick = () =>{
 };
 
 
-
-
-
-
-
 // scroll section
 
 let sections=document.querySelectorAll('section');
